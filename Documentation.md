@@ -105,3 +105,5 @@ There are two kinds of metrics:
   - Components can be separate Application Insights instrumentation keys (even if subscriptions are different) or 
     different roles reporting to a single Application Insights instrumentation key. The preview map experience shows the
     components regardless of how they are set up
+
+![img_9.png](img_9.png)
